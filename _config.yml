@@ -2,6 +2,9 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+skip_render:
+- "cms_admin/*"
+
 # Site
 title: Hexo
 subtitle: ''
